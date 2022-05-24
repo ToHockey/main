@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Hockey</title>
+    <link href="https://to.hockey/feed.xml" rel="self" />
+    <link href="https://to.hockey" />
+    <updated>2022-05-24T13:35:53-07:00</updated>
+    <author>
+        <name>BC</name>
+    </author>
+    <id>https://to.hockey</id>
+
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>BC</name>
+        </author>
+        <link href="https://to.hockey/test-post.html"/>
+        <id>https://to.hockey/test-post.html</id>
+
+        <updated>2022-05-24T13:35:53-07:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>To.Hockey test post.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>To.Hockey test post.</p>
+
+<figure class="post__image"><img loading="lazy"  src="https://images.unsplash.com/photo-1607863400985-8d3bc50e3fd6?ixlib=rb-1.2.1&amp;raw_url=true&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1075" data-is-external-image="true"  alt="" width="1075" height="805"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

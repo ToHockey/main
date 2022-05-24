@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://to.hockey/sitemap.xml
